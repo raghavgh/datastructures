@@ -20,12 +20,6 @@ type CustomList struct {
 	hash map[int]*node.Node
 	typ  reflect.Type
 }
-
-func add(a, b int) (res int) {
-	res = a + b
-	return
-}
-
 type List interface {
 	PushBack(data interface{})           //	O(logn)
 	PopBack() interface{}                //	O(logn)
