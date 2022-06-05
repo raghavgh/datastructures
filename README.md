@@ -13,3 +13,9 @@ This data structure provide you ability to do following operations:
 4. PushFront: This operation push data into front side of list.
 5. PopFront: This operation pop the first element present in list.
 6. Remove: This operation removes data at particuar index.
+7. Get: This operation returns data at particuar index.
+8. Size: This operation will return size of list.
+9. Add: This operation will add data at particular index.
+10. Replace: This operation will replace data at given index.
+11. Make: This operation will give you the pointer of CustomList.
+12. GetInRange: This operation will give subList in given range.
