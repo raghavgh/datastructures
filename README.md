@@ -2,8 +2,10 @@
 This module provides custom list and queue data structure
 
 # CustomList
-In the custom list every data stored in nodes and it's have doubly linkedlist type of structure and 
+In the custom list we can store homogenous and heterogenous data, every data stored in nodes and it's have doubly linkedlist type of structure and 
 I have also used hashing to store indexes to speed up basic operation.
+
+Trying to add mechanism for all operations to make it able to use by multiple go routines. (Work in progress)
 
 This data structure provide you ability to do following operations:
 
