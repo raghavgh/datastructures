@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # List Data Structures Implemented in Golang
 This module provides custom list and queue data structure
 
